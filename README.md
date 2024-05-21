@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Jamaica: Explorando o paraíso do Caribe
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="250"  
+/>
+</p>
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Decrição:
+Este é um e-book essencial para viajantes, oferece dicas detalhadas sobre as melhores praias, atrações culturais, culinária local e aventuras ao ar livre. Além disso contém informações práticas, este guia ajudará você a aproveitar ao máximo sua experiência neste paraíso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-EDCBDF?style=for-the-badge)](https://chatgpt.com/?oai-dm=1)
+
+[![Canva](https://img.shields.io/badge/Canva-EDCBDF?style=for-the-badge)](https://www.canva.com/)
+
+[![CLexica.art](https://img.shields.io/badge/Lexica.art-EDCBDF?style=for-the-badge)](https://lexica.art/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompts utilizados no ChatGPT:
+- Liste três opções de títulos para um e-book de guia de viagem para Jamaica;
+- Faça, em poucas palavras, uma breve descrição deste e-book;
+- Crie um breve roteiro para turismo na Jamaica, listando alguns principais pontos turísticos e falando um pouco sobre eles;
+
+Após a parte escrita do projeto organizada, pesquisei as imagens no Lexica.art e criei o design no Canva.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+<a href="./EBOOK.pdf" title="View PDF now"> 📕 Clique aqui para ler</a>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+ As IAs facilitam muito nesse processo de criação de conteúdo, claro que é sempre bom fazer revisões humanas, mas utilizando os prompts corretos, as respostas vêm muito bem elaboradas.
